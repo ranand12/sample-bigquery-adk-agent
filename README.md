@@ -1,4 +1,4 @@
-# nyc-adk-sample
+# bq-adk-sample
 
 A base ReAct agent built with Google's Agent Development Kit (ADK)
 Agent generated with [`googleCloudPlatform/agent-starter-pack`](https://github.com/GoogleCloudPlatform/agent-starter-pack) version `0.28.3`
